@@ -1,7 +1,7 @@
 # TELECOM-X-2DA-PARTE
 Proyecto de Predicción de Churn de Clientes
 Propósito del Análisis
-El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir la cancelación (churn) de clientes. El análisis busca identificar patrones de comportamiento y características demográficas o de servicio que influyan en la decisión de un usuario de abandonar la compañía, permitiendo la implementación de estrategias de retención proactivas basadas en datos.
+El objetivo principal de este proyecto es desarrollar un modelo de Machine Learning capaz de predecir la cancelación (churn) de clientes. El análisis busca identificar patrones de comportamiento y características que influyan en la decisión de un usuario de abandonar la compañía, permitiendo la implementación de estrategias de retención proactivas basadas en datos.
 
 ## **Estructura del Proyecto**
 El repositorio está organizado de la siguiente manera:
